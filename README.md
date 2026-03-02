@@ -1,0 +1,1 @@
+Documento que contiene los resultados agregados por Hotspot como unidad mínima de análisis espacial, derivados de registros de eBird. Incluye región, tipo de costa, temporada, promedio de individuos (IC 95%), distancia de avistamiento (km), densidad lineal estimada (IC 95%) y coordenadas geográficas.
